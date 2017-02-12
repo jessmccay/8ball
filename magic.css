@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://c2.staticflickr.com/4/3779/9775164755_65c81a60c2_b.jpg");
+  text-align: center;
+
+
+
+}
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: 'Rock Salt', cursive;
+  font-size: 40px;
+}
+p {
+  color: #FF00FF;
+  font-family: 'Give You Glory', cursive;
+  font-size: 30px;
+
+
+}
+
+button {
+background-color: blue;
+font-family: 'Homemade Apple', cursive;
+font-size: 30px;
+
+}
